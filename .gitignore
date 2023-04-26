@@ -1,0 +1,8 @@
+.vscode/
+.history/
+
+client/dist/
+client/target/
+client/.env
+server/target/
+server/Config.toml

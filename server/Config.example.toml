@@ -1,0 +1,14 @@
+[server]
+host = "127.0.0.1"
+port = 8090
+
+[pg]
+host = "localhost"
+port = 5432
+user = "user"
+password = "password"
+dbname = "db_name"
+pool_max_size = 16
+
+[jwt]
+secret-key = "key"
